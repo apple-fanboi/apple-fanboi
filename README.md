@@ -4,27 +4,18 @@ Welcome to my corner of GitHub! I'm thrilled to have you here.
 
 ## About Me
 
-I'm a tech enthusiast with a strong passion for innovation and creativity. Whether it's exploring the latest advancements in technology or diving deep into coding challenges, I'm always eager to learn and grow.
+I am currently working as a Software developer.
 
-- 💼 Currently working on my messed-up self.
-- 🌱 Learning something new every day.
+## My Tech Stack
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,js,html,css,mysql,git,github,aws,webpack" />
+  </a>
+</p>
 
-## Let's Connect
-
-I believe that great ideas are born through collaboration and diverse perspectives. I'm eager to connect with fellow tech enthusiasts, designers, and anyone who shares my enthusiasm for all things Apple.
-
-Feel free to reach out if you want to:
-
-- 📚 Discuss the latest trends in tech and share insights.
-- 🤝 Collaborate on open-source projects that make a difference.
-- 🌏 Connect and learn from each other's experiences.
-
-## Get in Touch
-
-📱 You know how to find me. Just keeping it low profile to avoid search engines 😁.
-
-💛 Looking forward to connecting with people who align! Let's start something new together🚀
-
-<!--
-Feel free to add badges, stats, or any other information you'd like to showcase.
--->
+## Tools
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=idea,vscode,workbench&theme=light" />
+  </a>
+</p>
