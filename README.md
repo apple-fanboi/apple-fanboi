@@ -1,10 +1,10 @@
-# Hey there, I'm Vamsi! 👋
-
-Welcome to my corner of GitHub! I'm thrilled to have you here.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=60&duration=4000&pause=500&color=929292&background=000000&center=true&vCenter=true&random=false&width=1012&height=200&lines=Vamsi+Muvvala)](https://git.io/typing-svg)
 
 ## About Me
-
 I am currently working as a Software developer.
+
+## Contribution
+[![GitHub Streak](https://streak-stats.demolab.com?user=apple-fanboi&theme=dark&date_format=j%20M%5B%20Y%5D&card_width=1012)](https://git.io/streak-stats)
 
 ## My Tech Stack
 <p align="center">
