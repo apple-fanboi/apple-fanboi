@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=60&duration=4000&pause=500&color=000000&background=959595&center=true&vCenter=true&random=false&width=1012&height=200&lines=Vamsi+Muvvala)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=60&duration=4000&pause=500&color=929292&background=000000&center=true&vCenter=true&random=false&width=1012&height=200&lines=Vamsi+Muvvala)](https://git.io/typing-svg)
 
 ## About Me
 I am currently working as a Software developer.
