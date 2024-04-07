@@ -9,7 +9,7 @@
 ## My Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,html,css,mysql,git,github,aws,webpack" />
+    <img src="https://skillicons.dev/icons?i=java,spring,js,html,css,mysql,git,github,aws,webpack" />
   </a>
 </p>
 
